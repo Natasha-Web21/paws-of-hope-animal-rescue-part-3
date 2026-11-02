@@ -1,0 +1,107 @@
+# Paws of Hope Animal Rescue
+
+## Project Overview
+
+Paws of Hope Animal Rescue is a website project developed to promote animal rescue, adoption and responsible pet ownership.
+
+The website provides visitors with information about the organisation, its services, adoption enquiries and contact details.
+
+This project was updated for Part 3 of the WEDE5020 Portfolio of Evidence (POE).
+
+## Website Features
+
+The website includes the following features:
+
+- Home page introducing Paws of Hope Animal Rescue.
+- About page explaining the organisation's mission, vision and values.
+- Services page with animal listing examples.
+- Animal search functionality.
+- Animal filtering by dogs and cats.
+- Alphabetical sorting of animal listings.
+- Enquiry form with JavaScript validation.
+- Contact form with JavaScript validation.
+- Contact information and embedded Google Maps.
+- Responsive layout for desktop, tablet and mobile screens.
+- Consistent cream-and-brown website design.
+
+- Improved homepage, About Us and Enquiry page image sizing to display larger images while preserving their original proportions across desktop and mobile screens.
+
+
+**Note:** Animal listings are sample demonstrations and do not represent confirmed animals available for adoption. The forms demonstrate client-side validation and do not send messages to an email address.
+
+## Website Demonstrations
+
+The following screenshots demonstrate the appearance of the Paws of Hope Animal Rescue homepage on desktop and mobile screens.
+
+### Desktop View
+
+![Desktop Homepage](homepage-desktop.png)
+
+### Mobile View
+
+![Mobile Homepage](homepage-mobile.png)
+
+## Technologies Used
+
+- **HTML5:** Website structure and content.
+- **CSS3:** Website styling and responsive layouts.
+- **JavaScript:** Interactive animal listings and form validation.
+- **Visual Studio Code:** Code editor.
+- **GitHub:** Source code repository.
+
+## Project Structure
+
+```text
+Paws_of_Hope_Part_3/
+│
+├── index.html
+├── about.html
+├── services.html
+├── enquiry.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   └── Website image assets
+│
+├── README.md
+└── CHANGELOG.md
+```
+
+## How to View the Website
+
+1. Download or clone the project repository.
+2. Open the project folder in Visual Studio Code.
+3. Locate `index.html`.
+4. Open the file in a web browser.
+5. Use the navigation menu to explore the website pages.
+
+Alternatively, use the Live Server extension in Visual Studio Code.
+
+## Testing
+
+The following website features should be tested:
+
+- Navigation links between all five pages.
+- Animal search functionality.
+- Filtering animal listings by type.
+- Sorting animal listings alphabetically.
+- Required-field validation on the enquiry form.
+- Required-field validation on the contact form.
+- Image display and responsive layout.
+- Website appearance on desktop and mobile screens.
+
+## Part 3 Improvements
+
+Part 3 builds on the original website by introducing JavaScript functionality, improved animal listings, form validation, responsive styling and updated website documentation.
+
+Refer to `CHANGELOG.md` for a record of the project improvements.
+
+## Author
+
+Developed as part of the WEDE5020 Portfolio of Evidence.
