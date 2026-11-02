@@ -26,21 +26,6 @@ The website includes the following features:
 
 - Improved homepage, About Us and Enquiry page image sizing to display larger images while preserving their original proportions across desktop and mobile screens.
 
-
-**Note:** Animal listings are sample demonstrations and do not represent confirmed animals available for adoption. The forms demonstrate client-side validation and do not send messages to an email address.
-
-## Website Demonstrations
-
-The following screenshots demonstrate the appearance of the Paws of Hope Animal Rescue homepage on desktop and mobile screens.
-
-### Desktop View
-
-![Desktop Homepage](homepage-desktop.png)
-
-### Mobile View
-
-![Mobile Homepage](homepage-mobile.png)
-
 ## Technologies Used
 
 - **HTML5:** Website structure and content.
